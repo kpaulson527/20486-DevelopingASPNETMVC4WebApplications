@@ -8,7 +8,7 @@ The initial release of lab files contains solutions built on ASP.NET 5 beta 8 an
 
 We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
 
-## Where will the files be
+## Where will the files be?
 The files are available in a GitHub repo at https://github.com/MicrosoftLearning/20486-DevelopingASPNETMVC4WebApplications
 
 ##How should I use these files relative to the released MOC files?
